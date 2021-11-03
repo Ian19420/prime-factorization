@@ -18,4 +18,4 @@ for i in new:
     else:
         f.append(f"{i}^{a}")
 print("*".join(f))
-    
+    hi
